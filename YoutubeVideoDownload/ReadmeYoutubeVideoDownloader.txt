@@ -16,28 +16,28 @@ This tool works for single videos, playlists, and even other supported sites lik
 - Audio-only download option (MP3)  
 
 
-## 🛠️ Requirements
+🛠️ Requirements
 - **Python 3.7+** installed  
 - Internet connection  
 
----
 
-## 📦 Installation
+📦 Installation
 
 1. Install dependencies
    python -m pip install yt-dlp
   
 
 
-## Download a video
+Download a video
 
 Enter the YouTube video URL when prompted, and it will download in the highest quality.
 
-## 🎵 Download Audio Only (MP3)
+🎵 Download Audio Only (MP3)
 
 Change `ydl_opts` to:
 
-```python
+python
+
 ydl_opts = {
     'format': 'bestaudio',
     'postprocessors': [{
@@ -46,18 +46,18 @@ ydl_opts = {
         'preferredquality': '192',
     }]
 }
-```
 
----
 
-## ⚠ Disclaimer
+
+⚠ Disclaimer
 
 This script is for **personal use only**.
 Downloading copyrighted content without permission may violate YouTube’s [Terms of Service](https://www.youtube.com/static?template=terms) and applicable laws.
 
----
+
 
 💡 Author
 
 * **Parth Santoki** – [GitHub Profile](https://github.com/Parthsantoki2003)
 
+This project is open-source and free to use for educational or personal purposes but you should give credit.
