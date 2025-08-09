@@ -49,5 +49,6 @@ Saved Wi-Fi Networks & Passwords:
 
 📜 License
 
-This project is open-source and free to use for educational or personal purposes.
+This project is open-source and free to use for educational or personal purposes but you should give credit. 
+
 
