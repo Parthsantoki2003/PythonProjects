@@ -8,29 +8,26 @@ This script generates a strong, random password consisting of:
 
 Each generated password is also saved in a file for reference.
 
----
-
-## 📌 Features
+📌 Features
 
 - 🎲 Randomly generated
 - 🔒 Strong and unpredictable
 - 📁 Saves passwords in `GeneratedPasswords.txt`
 - 🧠 Easy to modify for more complexity
 
----
 
-## 🛠️ Requirements
+🛠️ Requirements
 
 - Python 3.x
 
 No external modules needed — just run it!
 
----
 
-## 🚀 How to Use
+ 🚀 How to Use
 
 1. Save the script as `password_generator.py`
 2. Open a terminal and run:
 
-```bash
 python password_generator.py
+
+This project is open-source and free to use for educational or personal purposes but you should give credit.
